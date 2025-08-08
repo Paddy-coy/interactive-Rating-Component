@@ -1,1 +1,1 @@
-# An Interactive rating Component built with basic html css and js if you click on the above numbers it will submit the form popping out a thank you screen page this particular project has tested my knowledge and to see how javascript is used under the hood
+# An Interactive rating Component built with basic html, css and js if you click on the above numbers, it will submit the form popping out a thank you screen page. This particular project has tested my knowledge and to see how javascript works under the hood.
